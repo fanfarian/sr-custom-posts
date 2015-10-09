@@ -15,8 +15,8 @@
  * @wordpress-plugin
  * Plugin Name:       Theme Custom Posts
  * Plugin URI:        https://github.com/fanfarian/sr-custom-posts
- * Description:       Custom posts and taxonomies as plugin for your Wordpress theme
- * Version:           1.0.0
+ * Description:       Your custom posts and taxonomies as plugin in your Wordpress-Theme
+ * Version:           1.1.0
  * Author:            Stefan Reichert
  * Author URI:        http://stefan-reichert.com/koepfe/stefan-reichert
  * License:           GPL-2.0+

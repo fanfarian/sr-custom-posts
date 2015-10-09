@@ -146,8 +146,8 @@ class sr_custom_posts {
 
 		$plugin_posts = new srcp_custom_posts_Posts();
 
-		$this->loader->add_action( 'init', $plugin_posts, 'register_custom_post_POST_1' );																		// Register 1. custom post
-		$this->loader->add_action( 'init', $plugin_posts, 'register_custom_post_POST_2' );																		// Register 2. custom post
+	//	$this->loader->add_action( 'init', $plugin_posts, 'register_custom_post_POST_1' );																		// Register 1. custom post
+	//	$this->loader->add_action( 'init', $plugin_posts, 'register_custom_post_POST_2' );																		// Register 2. custom post
 	}
 	
 	/**
@@ -160,8 +160,8 @@ class sr_custom_posts {
 
 		$plugin_taxonomy = new srcp_custom_posts_Taxonomies();
 
-		$this->loader->add_action( 'init', $plugin_taxonomy, 'register_taxonomy_TAX_1' );																		// Register 1. custom taxonomy
-		$this->loader->add_action( 'init', $plugin_taxonomy, 'register_taxonomy_TAX_2' );																		// Register 2. custom taxonomy
+	//	$this->loader->add_action( 'init', $plugin_taxonomy, 'register_taxonomy_TAX_1' );																		// Register 1. custom taxonomy
+	//	$this->loader->add_action( 'init', $plugin_taxonomy, 'register_taxonomy_TAX_2' );																		// Register 2. custom taxonomy
 	}	
 
 
