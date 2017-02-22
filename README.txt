@@ -1,9 +1,9 @@
 === Theme Custom Posts ===
 Contributors: Stefan Reichert
 Tags: theme functionality, custom post, custom taxonomy, custom post plugin, custom taxonomy plugin
-Requires at least: 3.6.0
-Tested up to: 4.3
-Stable tag: 1.0.0
+Requires at least: 4.0
+Tested up to: 4.7
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -51,6 +51,9 @@ A. Please create an issue on GitHub: https://github.com/fanfarian/sr-custom-post
 
 
 == Changelog ==
+
+= 1.2 =
+* Plugin icon
 
 = 1.1 =
 * Readme update
